@@ -1,4 +1,4 @@
-# Guillaume CLIN ![photopdp2](https://github.com/user-attachments/assets/cf5b74e9-9b9c-4cb8-9c15-5e18d24af64c)
+![photopdp2](https://github.com/user-attachments/assets/cf5b74e9-9b9c-4cb8-9c15-5e18d24af64c) # Guillaume CLIN 
 *Bienvenue sur mon ReadMe*
 ## 🎓Je suis un étudiant préparant un Bachelor de Chef de Projet Digital à la Normandie Web School du Havre. 
 ### 💻J'étend mes compétences en développement web tout en approfondissant mes connaissances en design graphique avec pour objectif de devenir développeur UX !
