@@ -1,6 +1,6 @@
 # Guillaume CLIN 
 
-![readmeimage](https://github.com/user-attachments/assets/6d3847b3-84bd-41c5-8833-9771ebf216a8)
+<img width="653" alt="imageeee" src="https://github.com/user-attachments/assets/88c94643-6836-46a5-8006-b8e180d493e4">
 
 
 *Bienvenue sur mon ReadMe*
