@@ -1,10 +1,9 @@
 # Guillaume CLIN 
-
+*Bienvenue sur mon ReadMe*
 <img width="653" alt="imageeee" src="https://github.com/user-attachments/assets/88c94643-6836-46a5-8006-b8e180d493e4">
 
 
-*Bienvenue sur mon ReadMe*
-## 🎓Je suis un étudiant préparant un Bachelor de Chef de Projet Digital à la Normandie Web School du Havre. 
+
 ### 💻J'étend mes compétences en développement web tout en approfondissant mes connaissances en design graphique avec pour objectif de devenir développeur UX !
 
 ### 😊Me connaître ⤵️
