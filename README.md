@@ -28,10 +28,4 @@
 #### 🏫Normandie Web School - *2024 - 2027*
 ##### Désormais en quête d'obtenir un bachelor en chef de projets digitaux, je me concentre sur l'approfondissement de mes notions en développement web tout en découvrant de nouveaux aspects de la création digitale avec les différents axes d'apprentissage tels que la communication graphique, la communication digitale ou encore le marketing digital.
 
-|1re colonne|2e colonne|3e colonne|
-|:—|:—:|-:|
-|Alignement à gauche|Alignement centré|Alignement à droite|
-
-
-
  
