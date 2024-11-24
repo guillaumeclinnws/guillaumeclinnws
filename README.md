@@ -9,7 +9,7 @@
 ### 💻J'étend mes compétences en développement web tout en approfondissant mes connaissances en design graphique avec pour objectif de devenir développeur UX !
 
 ## 😊Me connaître ⤵️
-### \_Hobbies\_
+### ==Hobbies==
 #### 🤺Escrime 
 ##### Depuis 14 ans maintenant je pratique ce sport, sous différentes formes. J'ai d'abord commencé le sabre en 2010, discipline dans laquelle j'ai pu me hisser au top 40 France en 2016, jusqu'en 2020, mon année d'arrêt. J'ai ensuite enchaîné avec l'épée,  discipline que je pratique encore et toujours aujourd'hui. Grâce à mon entrée dans les études supérieures, j'ai appris l'existence de 2 autres disciplines : le sabre laser et l'AMHE (Arts Martiaux Historiques et Européens). 2 "sous-disciplines" très intéressantes ayant un style de combat propre et très physique.
 
